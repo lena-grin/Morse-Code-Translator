@@ -5,5 +5,5 @@ print(text)
 output = decode(text)
 print(output)
 
-recoded = encode('stop')
+recoded = encode(text)
 print(recoded)
